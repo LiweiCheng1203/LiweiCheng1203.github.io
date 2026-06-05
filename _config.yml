@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Liwei Cheng"                                   # TODO: 站点标题（浏览器标签页显示）
+title                    : "Liwei Cheng"
 title_separator          : "-"
-name                     : &name "Liwei Cheng"                             # TODO: 你的姓名
-description              : &description "Liwei Cheng's academic homepage"  # TODO: 站点描述（搜索引擎摘要）
+name                     : &name "Liwei Cheng"
+description              : &description "Liwei Cheng's academic homepage — embodied AI, multimodal models, and agents"
 url                      : https://liweicheng1203.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LiweiCheng1203/LiweiCheng1203.github.io"
@@ -22,14 +22,14 @@ repository               : "LiweiCheng1203/LiweiCheng1203.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"             # TODO: 替换 images/profile.png 为你的照片
-  name             : "Liwei Cheng"             # TODO: 侧边栏显示的姓名
+  avatar           : "profile.png"
+  name             : "Liwei Cheng (程立伟)"
   pronouns         : # example: "she/her"
-  bio              : "PhD student"             # TODO: 侧边栏一句话简介（职位/方向）
-  location         : "China"                   # TODO: 所在地
-  employer         : "Your Institution"        # TODO: 所在机构/学校
+  bio              : "Undergraduate, Yongtan Honors Class, Harbin Institute of Technology"
+  location         : "Harbin, China"
+  employer         : "Harbin Institute of Technology"
   uri              : # URL
-  email            : # TODO: 学术邮箱，如 "liwei@example.edu"
+  email            : "LiweiCheng@stu.hit.edu.cn"
 
   # Academic websites
   academia         : # URL
@@ -83,12 +83,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  preprints:
+    title: 'Preprints & Under Review'
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

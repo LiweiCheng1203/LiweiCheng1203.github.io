@@ -11,16 +11,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "CV"
     url: /cv/
 
-  # 需要时取消注释即可恢复以下栏目
+  # 需要时取消注释即可恢复以下栏目（内容格式参考 _example_formats/）
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
   # - title: "Portfolio"
   #   url: /portfolio/
 
